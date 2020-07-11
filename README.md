@@ -10,3 +10,7 @@ const clover = require("@terminalfreaks/clover")
 
 clover("--greeting Hello -s")
 ```
+
+## Changelog
+### 1.0.1
+- Added types
