@@ -1,0 +1,25 @@
+{
+  "name": "@terminalfreaks/clover",
+  "version": "1.0.0",
+  "description": "Simplistic argument parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terminalfreaks/Clover.git"
+  },
+  "keywords": [
+    "parser",
+    "command-line-arguments",
+    "arg-parser",
+    "yargs"
+  ],
+  "author": "Terminalfreaks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Terminalfreaks/Clover/issues"
+  },
+  "homepage": "https://github.com/Terminalfreaks/Clover#readme"
+}
