@@ -1,6 +1,6 @@
 {
   "name": "@terminalfreaks/clover",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Simplistic argument parser.",
   "main": "index.js",
   "types": "index.d.ts",
