@@ -1,6 +1,6 @@
 {
   "name": "@terminalfreaks/clover",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Simplistic argument parser.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Terminalfreaks/Clover/issues"
   },
-  "homepage": "https://github.com/Terminalfreaks/Clover#readme"
+  "homepage": "https://github.com/Terminalfreaks/Clover#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0"
+  }
 }
