@@ -1,2 +1,4 @@
 const clover = require("./index")
-console.log(clover("--greeting Hello -s"))
+const options = clover("--greeting Hello -s")
+console.log(options)
+console.log(clover.isEmpty(options.g))

@@ -6,3 +6,5 @@ module.exports = (_args) => {
 	}
 	return parsed
 }
+
+module.exports.isEmpty = (option) => !option || option === true
